@@ -31,8 +31,8 @@ https://ikaera.github.io/Module-1-Challenge-accessibility/
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax: -->
 
    
-    ![Screenshot1](assets/images/Screenshot%202022-12-04%201.png)
-    ![Screenshot2](assets/images/Screenshot%202022-12-04%202.png)
+    ![Screenshot1](assets/images/Screenshot1.png)
+    ![Screenshot2](assets/images/Screenshot2.png)
     
     
 
