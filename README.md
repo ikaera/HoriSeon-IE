@@ -23,6 +23,19 @@ THEN I find a concise, descriptive title
 ### link to deployed application:
 https://ikaera.github.io/Module-1-Challenge-accessibility/
 
+
+## Usage 
+
+<!-- Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax: -->
+
+   
+    ![Screenshot1](assets/images/Screenshot%202022-12-04%201.png)
+    ![Screenshot2](assets/images/Screenshot%202022-12-04%202.png)
+    
+    
+
 <!-- Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
