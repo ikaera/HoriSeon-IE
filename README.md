@@ -21,7 +21,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ### link to deployed application:
-https://ikaera.github.io/Module-1-Challenge-accessibility/
+https://ikaera.github.io/HoriSeon-IE/
 
 
 ## Usage 
